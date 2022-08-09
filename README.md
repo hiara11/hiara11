@@ -1,5 +1,5 @@
 ## Hello! I’m Hiara Pickler
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, java and pascal
 - 💞️ I’m looking to collaborate in the projects I can
 <div>
   <a href="https://github.com/hiara11">
