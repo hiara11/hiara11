@@ -1,6 +1,6 @@
 ## Hello! I’m Hiara Pickler
 - 🌱 I’m currently learning javascript, java.
-- 💞️ I’m looking to collaborate in the projects I can
+- 💞️ I will help to collaborate in the projects I can
 <div>
   <a href="https://github.com/hiara11">
       <img class"_25ZJA" scr="https://stories-cdn.duolingo.com/image/34844185612dd13973e589cd50d5ae3481d965bb.svg"/>
