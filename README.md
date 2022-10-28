@@ -11,4 +11,6 @@
   <img align="center" alt="Hiara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hiara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hiara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  ![Snake animation](https://github.com/guifreiberger/guifreiberger/blob/output/github-contribution-grid-snake.svg)
 </div>
